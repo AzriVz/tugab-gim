@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Tugab.sln"
+    "dotnet.defaultSolution": "Unity Project.sln"
 }

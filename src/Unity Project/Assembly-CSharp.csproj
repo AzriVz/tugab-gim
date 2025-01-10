@@ -106,7 +106,6 @@
     <Compile Include="Assets\Scenes\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
     <Compile Include="Assets\Scenes\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\MainMenu.cs" />
-    <Compile Include="Assets\walwal.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scenes\TextMesh Pro\Shaders\TMPro.cginc" />
