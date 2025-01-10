@@ -3,7 +3,7 @@ Membuat game bertemakan "minigame" yang sederhana namun menantang, dengan mekani
 Mengimplementasikan fitur tambahan, seperti mekanik dash, collectibles, dan moving obstacles, untuk meningkatkan tingkat kesulitan dan replayability.
 Menyediakan prototype yang dapat diuji dan diiterasi berdasarkan feedback.
 
-## Cara Menginstall
+## Cara Menginstal
 
 1. Unduh file prototype Floppy Birb dari repository GitHub.
 2. Ekstrak file .zip ke direktori pilihan Anda.
